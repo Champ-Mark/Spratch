@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Spratch</string>
+    <string name="start">START</string>
+    <string name="reset">RESET</string>
+    <string name="save">SAVE</string>
+    <string name="lap">LAP</string>
+    <string name="records">RECORDS</string>
+</resources>
